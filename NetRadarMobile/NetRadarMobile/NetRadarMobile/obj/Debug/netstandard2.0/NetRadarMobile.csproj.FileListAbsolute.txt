@@ -1,0 +1,24 @@
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile\bin\Debug\netstandard2.0\NetRadarMobile.deps.json
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile\bin\Debug\netstandard2.0\NetRadarMobile.dll
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile\bin\Debug\netstandard2.0\NetRadarMobile.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile\obj\Debug\netstandard2.0\NetRadarMobile.csprojAssemblyReference.cache
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile\obj\Debug\netstandard2.0\NetRadarMobile.csproj.CoreCompileInputs.cache
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile\obj\Debug\netstandard2.0\NetRadarMobile.AssemblyInfoInputs.cache
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile\obj\Debug\netstandard2.0\NetRadarMobile.AssemblyInfo.cs
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile\obj\Debug\netstandard2.0\NetRadarMobile.dll
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile\obj\Debug\netstandard2.0\NetRadarMobile.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile\bin\Debug\netstandard2.0\Mono.Android.dll
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile\bin\Debug\netstandard2.0\Mono.Android.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile\bin\Debug\netstandard2.0\Mono.Android.xml
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile\obj\Debug\netstandard2.0\NetRadarMobile.csproj.CopyComplete
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile\obj\Debug\netstandard2.0\NetRadarMobile.csprojAssemblyReference.cache
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile\obj\Debug\netstandard2.0\NetRadarMobile.csproj.CoreCompileInputs.cache
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile\obj\Debug\netstandard2.0\NetRadarMobile.AssemblyInfoInputs.cache
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile\obj\Debug\netstandard2.0\NetRadarMobile.AssemblyInfo.cs
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile\obj\Debug\netstandard2.0\NetRadarMobile.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile\obj\Debug\netstandard2.0\NetRadarMobile.pdb

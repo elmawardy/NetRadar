@@ -1,0 +1,212 @@
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\bin\Debug\NetRadarMobile.Android.dll
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\bin\Debug\NetRadarMobile.Android.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\bin\Debug\com.companyname.apk
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\bin\Debug\com.companyname-Signed.apk
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\bin\Debug\NetRadarMobile.dll
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\bin\Debug\NetRadarMobile.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\bin\Debug\NetRadarMobile.dll.mdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\NetRadarMobile.Android.csprojAssemblyReference.cache
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\res.flag
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\NetRadarMobile.Android.csproj.CoreCompileInputs.cache
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\XamlC.stamp
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\NetRadarMobile.Android.csproj.CopyComplete
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\NetRadarMobile.Android.dll
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\NetRadarMobile.Android.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\android\bin\com.companyname.apk
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\res\layout\tabbar.xml
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\res\layout\toolbar.xml
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\res\values\styles.xml
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\res\values\colors.xml
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\res\mipmap-anydpi-v26\icon.xml
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\res\mipmap-anydpi-v26\icon_round.xml
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\res\mipmap-hdpi\icon.png
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\res\mipmap-hdpi\launcher_foreground.png
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\res\mipmap-mdpi\icon.png
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\res\mipmap-mdpi\launcher_foreground.png
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\res\mipmap-xhdpi\icon.png
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\res\mipmap-xhdpi\launcher_foreground.png
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\res\mipmap-xxhdpi\icon.png
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\res\mipmap-xxhdpi\launcher_foreground.png
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\res\mipmap-xxxhdpi\icon.png
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\res\mipmap-xxxhdpi\launcher_foreground.png
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\R.cs.flag
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\R.txt
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\uploadflags.txt
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\bin\Debug\Mono.Android.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\bin\Debug\mscorlib.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\bin\Debug\System.Core.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\bin\Debug\System.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\bin\Debug\System.Numerics.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\bin\Debug\System.Numerics.Vectors.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\bin\Debug\System.Xml.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\bin\Debug\System.Xml.Linq.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\bin\Debug\System.Net.Http.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\bin\Debug\System.Data.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\bin\Debug\System.Transactions.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\bin\Debug\System.IO.Compression.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\bin\Debug\System.Runtime.Serialization.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\bin\Debug\System.Web.Services.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\bin\Debug\Mono.Security.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\linksrc\NetRadarMobile.Android.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\linksrc\Mono.Android.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\linksrc\mscorlib.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\linksrc\System.Core.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\linksrc\System.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\linksrc\System.Numerics.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\linksrc\System.Numerics.Vectors.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\linksrc\System.Xml.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\linksrc\System.Xml.Linq.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\linksrc\Xamarin.Forms.Core.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\linksrc\Xamarin.Forms.Xaml.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\linksrc\System.ComponentModel.Composition.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\linksrc\System.Net.Http.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\linksrc\System.Data.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\linksrc\System.Transactions.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\linksrc\System.IO.Compression.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\linksrc\System.IO.Compression.FileSystem.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\linksrc\System.Runtime.Serialization.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\linksrc\System.ServiceModel.Internals.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\linksrc\System.Web.Services.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\linksrc\Mono.Security.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\linksrc\FormsViewGroup.dll.mdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\linksrc\NetRadarMobile.dll.mdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\android\assets\FormsViewGroup.dll.mdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\android\assets\NetRadarMobile.dll.mdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\android\assets\Mono.Android.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\android\assets\Mono.Security.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\android\assets\mscorlib.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\android\assets\NetRadarMobile.Android.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\android\assets\System.ComponentModel.Composition.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\android\assets\System.Core.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\android\assets\System.Data.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\android\assets\System.IO.Compression.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\android\assets\System.Net.Http.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\android\assets\System.Numerics.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\android\assets\System.Numerics.Vectors.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\android\assets\System.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\android\assets\System.Runtime.Serialization.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\android\assets\System.ServiceModel.Internals.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\android\assets\System.Transactions.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\android\assets\System.Web.Services.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\android\assets\System.Xml.Linq.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\android\assets\System.Xml.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Forms.Core.pdb
+C:\Projects\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\bin\Debug\NetRadarMobile.Android.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\bin\Debug\NetRadarMobile.Android.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\bin\Debug\com.companyname.apk
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\bin\Debug\com.companyname-Signed.apk
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\bin\Debug\NetRadarMobile.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\bin\Debug\NetRadarMobile.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\bin\Debug\NetRadarMobile.dll.mdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\NetRadarMobile.Android.csprojAssemblyReference.cache
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\res.flag
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\NetRadarMobile.Android.csproj.CoreCompileInputs.cache
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\XamlC.stamp
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\NetRadarMobile.Android.csproj.CopyComplete
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\NetRadarMobile.Android.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\NetRadarMobile.Android.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\android\bin\com.companyname.apk
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\res\layout\tabbar.xml
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\res\layout\toolbar.xml
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\res\values\styles.xml
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\res\values\colors.xml
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\res\mipmap-anydpi-v26\icon.xml
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\res\mipmap-anydpi-v26\icon_round.xml
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\res\mipmap-hdpi\icon.png
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\res\mipmap-hdpi\launcher_foreground.png
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\res\mipmap-mdpi\icon.png
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\res\mipmap-mdpi\launcher_foreground.png
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\res\mipmap-xhdpi\icon.png
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\res\mipmap-xhdpi\launcher_foreground.png
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\res\mipmap-xxhdpi\icon.png
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\res\mipmap-xxhdpi\launcher_foreground.png
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\res\mipmap-xxxhdpi\icon.png
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\res\mipmap-xxxhdpi\launcher_foreground.png
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\R.cs.flag
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\R.txt
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\uploadflags.txt
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\bin\Debug\Mono.Android.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\bin\Debug\Mono.Security.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\bin\Debug\mscorlib.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\bin\Debug\System.Core.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\bin\Debug\System.Data.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\bin\Debug\System.IO.Compression.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\bin\Debug\System.Net.Http.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\bin\Debug\System.Numerics.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\bin\Debug\System.Numerics.Vectors.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\bin\Debug\System.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\bin\Debug\System.Transactions.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\bin\Debug\System.Web.Services.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\bin\Debug\System.Xml.Linq.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\bin\Debug\System.Xml.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\bin\Debug\FormsViewGroup.dll.mdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\android\assets\FormsViewGroup.dll.mdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\android\assets\NetRadarMobile.dll.mdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\android\assets\Mono.Android.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\android\assets\Mono.Security.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\android\assets\mscorlib.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\android\assets\NetRadarMobile.Android.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\android\assets\System.Core.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\android\assets\System.Data.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\android\assets\System.IO.Compression.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\android\assets\System.Net.Http.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\android\assets\System.Numerics.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\android\assets\System.Numerics.Vectors.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\android\assets\System.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\android\assets\System.Runtime.Serialization.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\android\assets\System.Transactions.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\android\assets\System.Web.Services.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\android\assets\System.Xml.Linq.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\android\assets\System.Xml.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Forms.Core.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\linksrc\FormsViewGroup.dll.mdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\linksrc\NetRadarMobile.dll.mdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\linksrc\Mono.Android.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\linksrc\Mono.Security.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\linksrc\mscorlib.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\linksrc\NetRadarMobile.Android.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\linksrc\System.Core.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\linksrc\System.Data.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\linksrc\System.IO.Compression.FileSystem.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\linksrc\System.IO.Compression.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\linksrc\System.Net.Http.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\linksrc\System.Numerics.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\linksrc\System.Numerics.Vectors.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\linksrc\System.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\linksrc\System.Runtime.Serialization.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\linksrc\System.Transactions.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\linksrc\System.Web.Services.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\linksrc\System.Xml.Linq.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\linksrc\System.Xml.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\linksrc\Xamarin.Forms.Core.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\linksrc\Xamarin.Forms.Xaml.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\linksrc\NetRadarMobile.Android.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\linksrc\FormsViewGroup.dll.mdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\linksrc\NetRadarMobile.dll.mdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NetRadarMobile\NetRadarMobile\NetRadarMobile.Android\obj\Debug\MonoAndroid81\linksrc\Xamarin.Forms.Platform.Android.dll.mdb

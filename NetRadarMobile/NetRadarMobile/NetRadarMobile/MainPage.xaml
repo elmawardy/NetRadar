@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:NetRadarMobile"
+             x:Class="NetRadarMobile.MainPage"
+             BackgroundColor="AliceBlue">
+    <StackLayout>
+        <!-- Place new controls here -->
+        <Label
+            HorizontalOptions="Start"
+            Text="Net Radar Mobile (Client)"
+            TextColor="Black"
+            Margin="5,5,5,5"
+            VerticalOptions="Start">
+            
+        </Label>
+        <Label
+            HorizontalOptions="Center"
+            VerticalOptions="Start"
+            Text="-"
+            TextColor="Black"
+            x:Name="userLabel" />
+        <StackLayout
+            Orientation="Vertical"
+            HorizontalOptions="Center"
+            VerticalOptions="CenterAndExpand">
+            <StackLayout
+                Orientation="Horizontal">
+                <Label 
+               HorizontalOptions="Center"
+               VerticalOptions="CenterAndExpand"
+                TextColor="Black"
+               Text="Receive : "/>
+                <Label Text="{Binding Rx}" 
+               HorizontalOptions="Center"
+               VerticalOptions="CenterAndExpand"
+               TextColor="Black"
+               x:Name="RxLabel"/>
+            </StackLayout>
+            <StackLayout
+                Orientation="Horizontal">
+                <Label 
+               HorizontalOptions="Center"
+               VerticalOptions="CenterAndExpand"
+                TextColor="Black"
+               Text="Send : "/>
+                <Label Text="{Binding Tx}" 
+               HorizontalOptions="Center"
+               VerticalOptions="CenterAndExpand"
+               TextColor="Black"
+               x:Name="TxLabel"/>
+            </StackLayout>
+        </StackLayout>
+        <StackLayout>
+            <Label
+                Text="Disconnected!"
+                TextColor="Red"
+                x:Name="conState"/>
+            <Entry  Placeholder="Server URL" x:Name="serverURL" Text="http://192.168.1.4:8080/RadarHub" TextColor="black" BackgroundColor="White" />
+            <Button Text="Connect" x:Name="connectBtn" Clicked="connectBtn_Clicked" />
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>

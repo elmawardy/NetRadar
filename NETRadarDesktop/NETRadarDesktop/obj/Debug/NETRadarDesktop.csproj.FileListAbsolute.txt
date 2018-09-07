@@ -1,0 +1,524 @@
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\NETRadarDesktop.exe.config
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\NETRadarDesktop.exe.manifest
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\NETRadarDesktop.application
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\NETRadarDesktop.exe
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\NETRadarDesktop.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.Owin.Diagnostics.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.Owin.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.Owin.Hosting.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Owin.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Web.Cors.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.Owin.xml
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.Owin.Diagnostics.xml
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.Owin.Hosting.xml
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\obj\Debug\MainWindow.g.cs
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\obj\Debug\App.g.cs
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\obj\Debug\NETRadarDesktop_Content.g.cs
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\obj\Debug\NETRadarDesktop_MarkupCompile.cache
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\obj\Debug\NETRadarDesktop_MarkupCompile.lref
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\obj\Debug\MainWindow.baml
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\obj\Debug\NETRadarDesktop.g.resources
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\obj\Debug\NETRadarDesktop.Properties.Resources.resources
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\obj\Debug\NETRadarDesktop.csproj.GenerateResource.cache
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\obj\Debug\NETRadarDesktop.csproj.CoreCompileInputs.cache
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\obj\Debug\NETRadarDesktop.exe.manifest
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\obj\Debug\NETRadarDesktop.application
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\obj\Debug\NETRadarDesktop.csproj.CopyComplete
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\obj\Debug\NETRadarDesktop.exe
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\obj\Debug\NETRadarDesktop.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\netstandard.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.AppContext.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Collections.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.ComponentModel.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Console.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Data.Common.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Globalization.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.IO.Compression.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.IO.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.IO.Pipes.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Linq.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Net.Http.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Net.Ping.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Net.Primitives.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Net.Requests.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Net.Security.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Net.Sockets.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.ObjectModel.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Reflection.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Resources.Reader.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Resources.Writer.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Runtime.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Security.Claims.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Security.Principal.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Security.SecureString.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Text.Encoding.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Threading.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Threading.Thread.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Threading.Timer.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.ValueTuple.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Xml.XPath.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Buffers.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Memory.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Threading.Channels.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.AspNetCore.Http.Connections.Client.xml
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.xml
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.AspNetCore.SignalR.Client.xml
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.AspNetCore.SignalR.Client.Core.xml
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.AspNetCore.SignalR.Common.xml
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.xml
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Buffers.xml
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Memory.xml
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Threading.Channels.xml
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\obj\Debug\NETRadarDesktop.csprojAssemblyReference.cache
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\obj\Debug\NETRadarDesktop.exe.config
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\radar.png
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\icon.ico
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+C:\Users\Elmawardy\Documents\Visual Studio 2017\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Hardcodet.Wpf.TaskbarNotification.xml
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\icon.ico
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\radar.png
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\settings.json
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\NETRadarDesktop.exe.config
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\NETRadarDesktop.exe.manifest
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\NETRadarDesktop.application
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\NETRadarDesktop.exe
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\NETRadarDesktop.pdb
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\netstandard.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.AppContext.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Collections.Concurrent.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Collections.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Collections.NonGeneric.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Collections.Specialized.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.ComponentModel.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Console.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Data.Common.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Diagnostics.Debug.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Diagnostics.Process.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Diagnostics.Tools.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Drawing.Primitives.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Dynamic.Runtime.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Globalization.Calendars.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Globalization.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Globalization.Extensions.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.IO.Compression.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.IO.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.IO.FileSystem.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.IO.Pipes.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Linq.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Linq.Expressions.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Linq.Parallel.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Linq.Queryable.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Net.Http.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Net.NameResolution.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Net.NetworkInformation.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Net.Ping.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Net.Primitives.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Net.Requests.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Net.Security.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Net.Sockets.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Net.WebSockets.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.ObjectModel.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Reflection.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Reflection.Extensions.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Reflection.Primitives.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Resources.Reader.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Resources.ResourceManager.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Resources.Writer.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Runtime.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Runtime.Extensions.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Runtime.Handles.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Runtime.InteropServices.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Runtime.Numerics.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Security.Claims.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Security.Principal.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Security.SecureString.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Text.Encoding.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Text.RegularExpressions.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Threading.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Threading.Overlapped.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Threading.Tasks.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Threading.Thread.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Threading.ThreadPool.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Threading.Timer.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.ValueTuple.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Xml.XDocument.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Xml.XmlDocument.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Xml.XPath.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.AspNet.SignalR.Core.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.Owin.Diagnostics.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.Owin.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.Owin.Hosting.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.Owin.Security.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Owin.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Buffers.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.IO.Pipelines.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Memory.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Numerics.Vectors.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Threading.Channels.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Web.Cors.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Hardcodet.Wpf.TaskbarNotification.xml
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.AspNet.SignalR.Core.xml
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.AspNetCore.Http.Connections.Client.xml
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.AspNetCore.Http.Connections.Common.xml
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.AspNetCore.SignalR.Client.xml
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.AspNetCore.SignalR.Client.Core.xml
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.AspNetCore.SignalR.Common.xml
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.AspNetCore.SignalR.Protocols.Json.xml
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.Owin.xml
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.Owin.Diagnostics.xml
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.Owin.Hosting.xml
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Microsoft.Owin.Security.xml
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Buffers.xml
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.IO.Pipelines.xml
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Memory.xml
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Numerics.Vectors.xml
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Threading.Channels.xml
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\obj\Debug\NETRadarDesktop.exe.config
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\obj\Debug\MainWindow.g.cs
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\obj\Debug\App.g.cs
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\obj\Debug\NETRadarDesktop_MarkupCompile.cache
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\obj\Debug\NETRadarDesktop_MarkupCompile.lref
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\obj\Debug\MainWindow.baml
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\obj\Debug\NETRadarDesktop.g.resources
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\obj\Debug\NETRadarDesktop.Properties.Resources.resources
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\obj\Debug\NETRadarDesktop.csproj.GenerateResource.cache
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\obj\Debug\NETRadarDesktop.csproj.CoreCompileInputs.cache
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\obj\Debug\NETRadarDesktop.exe.manifest
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\obj\Debug\NETRadarDesktop.application
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\obj\Debug\NETRadarDesktop.csproj.CopyComplete
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\obj\Debug\NETRadarDesktop.exe
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\obj\Debug\NETRadarDesktop.pdb
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\obj\Debug\NETRadarDesktop.csprojAssemblyReference.cache
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\WindowsService1.exe.config
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\WindowsService1.exe
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\WindowsService1.pdb
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\Microsoft.AspNetCore.Connections.Abstractions.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\Microsoft.AspNetCore.Http.Connections.Client.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\Microsoft.AspNetCore.Http.Connections.Common.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\Microsoft.AspNetCore.Http.Features.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\Microsoft.AspNetCore.SignalR.Client.Core.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\Microsoft.AspNetCore.SignalR.Client.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\Microsoft.AspNetCore.SignalR.Common.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\Microsoft.Extensions.Configuration.Binder.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\Microsoft.Extensions.Configuration.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\Microsoft.Extensions.DependencyInjection.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\Microsoft.Extensions.Logging.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\Microsoft.Extensions.Options.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\Microsoft.Extensions.Primitives.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\Microsoft.Win32.Primitives.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\netstandard.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\Newtonsoft.Json.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\Microsoft.AspNetCore.Connections.Abstractions.xml
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\Microsoft.AspNetCore.Http.Connections.Client.xml
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\Microsoft.AspNetCore.Http.Connections.Common.xml
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\Microsoft.AspNetCore.Http.Features.xml
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\Microsoft.AspNetCore.SignalR.Client.Core.xml
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\Microsoft.AspNetCore.SignalR.Client.xml
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\Microsoft.AspNetCore.SignalR.Common.xml
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\Microsoft.AspNetCore.SignalR.Protocols.Json.xml
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\Microsoft.Extensions.Configuration.Binder.xml
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\Microsoft.Extensions.Configuration.xml
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\Microsoft.Extensions.DependencyInjection.xml
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\Microsoft.Extensions.Logging.xml
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\Microsoft.Extensions.Options.xml
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\Microsoft.Extensions.Primitives.xml
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\Newtonsoft.Json.xml
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\WindowsService1.InstallLog
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.AppContext.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Buffers.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Collections.Concurrent.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Collections.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Collections.NonGeneric.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Collections.Specialized.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.ComponentModel.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.ComponentModel.EventBasedAsync.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.ComponentModel.Primitives.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.ComponentModel.TypeConverter.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Console.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Data.Common.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Diagnostics.Contracts.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Diagnostics.Debug.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Diagnostics.FileVersionInfo.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Diagnostics.Process.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Diagnostics.StackTrace.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Diagnostics.TextWriterTraceListener.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Diagnostics.Tools.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Diagnostics.TraceSource.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Diagnostics.Tracing.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Drawing.Primitives.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Dynamic.Runtime.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Globalization.Calendars.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Globalization.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Globalization.Extensions.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.IO.Compression.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.IO.Compression.ZipFile.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.IO.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.IO.FileSystem.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.IO.FileSystem.DriveInfo.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.IO.FileSystem.Primitives.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.IO.FileSystem.Watcher.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.IO.IsolatedStorage.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.IO.MemoryMappedFiles.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.IO.Pipelines.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.IO.Pipes.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.IO.UnmanagedMemoryStream.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Linq.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Linq.Expressions.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Linq.Parallel.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Linq.Queryable.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Memory.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Net.Http.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Net.NameResolution.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Net.NetworkInformation.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Net.Ping.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Net.Primitives.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Net.Requests.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Net.Security.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Net.Sockets.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Net.WebHeaderCollection.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Net.WebSockets.Client.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Net.WebSockets.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Numerics.Vectors.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.ObjectModel.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Reflection.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Reflection.Extensions.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Reflection.Primitives.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Resources.Reader.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Resources.ResourceManager.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Resources.Writer.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Runtime.CompilerServices.Unsafe.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Runtime.CompilerServices.VisualC.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Runtime.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Runtime.Extensions.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Runtime.Handles.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Runtime.InteropServices.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Runtime.Numerics.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Runtime.Serialization.Formatters.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Runtime.Serialization.Json.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Runtime.Serialization.Primitives.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Runtime.Serialization.Xml.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Security.Claims.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Security.Cryptography.Algorithms.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Security.Cryptography.Csp.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Security.Cryptography.Encoding.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Security.Cryptography.Primitives.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Security.Cryptography.X509Certificates.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Security.Principal.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Security.SecureString.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Text.Encoding.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Text.Encoding.Extensions.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Text.RegularExpressions.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Threading.Channels.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Threading.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Threading.Overlapped.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Threading.Tasks.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Threading.Tasks.Extensions.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Threading.Tasks.Parallel.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Threading.Thread.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Threading.ThreadPool.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Threading.Timer.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.ValueTuple.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Xml.ReaderWriter.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Xml.XDocument.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Xml.XmlDocument.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Xml.XmlSerializer.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Xml.XPath.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Xml.XPath.XDocument.dll
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Buffers.xml
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.IO.Pipelines.xml
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Memory.xml
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Numerics.Vectors.xml
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Runtime.CompilerServices.Unsafe.xml
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Threading.Channels.xml
+C:\Projects\Net-Radar\NETRadarDesktop\NETRadarDesktop\bin\Debug\Resources\System.Threading.Tasks.Extensions.xml
